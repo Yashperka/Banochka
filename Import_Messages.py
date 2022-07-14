@@ -12,7 +12,7 @@ chat = Channels.Channel(Channels.ZERKALO["id"])
 
 app = Client("my_account")
 
-app = Client("my_account",18053160,"195ab02f6f015ed643f42d85b1fe0911")
+app = Client("my_account","your app_id","your hash_id")
 
 f = open('result.txt', 'w',encoding='utf-8')
 
